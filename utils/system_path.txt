@@ -1,3 +1,0 @@
-import sys
-if '/Users/Parzon/Downloads' not in sys.path:
-sys.path.append('/Users/Parzon/Downloads')
